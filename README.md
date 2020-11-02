@@ -1,0 +1,2 @@
+# tailwind
+setting for tailwind
